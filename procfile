@@ -1,1 +1,1 @@
-worker: node locate.js
+worker: node locate
