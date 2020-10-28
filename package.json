@@ -1,0 +1,23 @@
+{
+    "name": "Locator Bot",
+    "description": "Locator Bot for AUC Discord.",
+  
+    "version": "1.0.0",
+  
+    "main": "locate.js",
+  
+    "scripts": {
+  
+      "start": "node locate.js"
+  
+    },
+  
+    "dependencies": {
+  
+      "discord.js": "12.0.0",
+  
+      "request": "2.81.0"
+  
+    }
+  
+  }
